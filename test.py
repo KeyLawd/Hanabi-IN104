@@ -1,1 +1,1 @@
-from math import *
+print("2+2=",2+2)
